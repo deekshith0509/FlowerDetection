@@ -1,5 +1,7 @@
-numpy
-tensorflow
 keras
-streamlit
 tkinter
+streamlit==0.90.0
+tensorflow==2.8.0
+numpy==1.21.0
+scikit-learn==0.24.2
+nltk==3.6.5
