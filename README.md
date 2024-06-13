@@ -17,26 +17,29 @@
 - **Model Training**: Learn about the architecture of the convolutional neural network (CNN) used for training the flower detection model, as well as the training process and evaluation metrics.
 
 - **Deployment**: Deploy the trained model for real-world applications, such as integrating it into web or mobile apps for automatic flower recognition.
-
+- **Multi-way Testing**: The scripts are capable of recognising a single or multiple flowers at a time from tkinter. Model is archived into zip formatted file. 
 ## 💻Getting Started
 To run the project locally, follow these steps:
+
 
 1. Clone the repository:
  
 ```
-         git clone https://github.com/deekshith0509/flower-detection.git
+git clone https://github.com/deekshith0509/flower-detection.git
 
 ```
 2. Install the required dependencies: 
 
 ```
-         pip install -r requirements.txt`
+pip install -r requirements.txt`
 
 ```
-3. Run the Streamlit app: 
+3. Extract the "Flower_Recog_Model.zip"file into the current Directory.
+
+4. Run the Streamlit app: 
 
 ```
-         streamlit run interface.py
+streamlit run interface.py
 
 ```
 ## 👨‍💻Usage
