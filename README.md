@@ -25,13 +25,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
  
 ```
-git clone https://github.com/deekshith0509/flower-detection.git
+https://github.com/deekshith0509/FlowerDetection.git
 
 ```
 2. Install the required dependencies: 
 
 ```
-pip install -r requirements.txt`
+pip install -r requirements.txt
 
 ```
 3. Extract the "Flower_Recog_Model.zip"file into the current Directory.
