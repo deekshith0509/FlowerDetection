@@ -25,8 +25,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
  
 ```
-https://github.com/deekshith0509/FlowerDetection.git
-
+git clone https://github.com/deekshith0509/FlowerDetection.git
+cd FlowerDetection
 ```
 2. Install the required dependencies: 
 
