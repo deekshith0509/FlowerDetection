@@ -32,7 +32,6 @@ cd FlowerDetection
 
 ```
 pip install -r requirements.txt
-
 ```
 3. Extract the "Flower_Recog_Model.zip"file into the current Directory.
 
@@ -40,7 +39,6 @@ pip install -r requirements.txt
 
 ```
 streamlit run interface.py
-
 ```
 ## 👨‍💻Usage
 Once the Streamlit app is running, you can interact with the following features:
